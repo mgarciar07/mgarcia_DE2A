@@ -1,0 +1,288 @@
+body{
+  font-family: sans-serif;
+
+  background-color: #FCCC8B;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+#cabecera{
+  height: 80px;
+width: auto;
+
+
+  text-align: center;
+
+
+
+
+  background-image: url("img/cap.png");
+  background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+
+#menu{
+
+  height: 100px;
+  width: 100%;
+  background-color:  ;
+  margin-top: -100px;
+  margin-right: 80px;
+
+
+}
+
+#menu{
+
+  text-decoration: none;
+  color: black;
+  float: right;
+}
+
+
+.lista{
+  position: relative;
+  background-color: ;
+  height: 20px;
+  width: 60px;
+  float: right;
+  padding:  10px;
+  list-style: none;
+  margin-right: 70px;
+  margin-top: 27px;
+  text-align: center;
+  font-size: 15px;
+
+}
+
+
+.lista:hover{
+
+  background-color: #661010;
+  color: white;
+}
+
+
+#c1{
+  background-color: ;
+  background-image: url(img/logo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-right: 5px;
+  margin-top: -35px;
+  margin-left: 350px;
+  margin-bottom: 50px;
+  height: 550px;
+  width: 550px;;
+  float: left;
+}
+
+#c2{
+  background-image: url(img/ham1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: ;
+  margin-right: 350px;
+  margin-top: -20px;
+  margin-left: 15px;
+  margin-bottom: 50px;
+
+  height: 550px;
+  width: 700px;
+  float: right;
+}
+
+
+#contenedor{
+background-color: #661010;
+
+height: 450px;
+}
+
+#c3{
+  background-image: url(img/pr1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+background-color: black;
+height: 400px;
+width: 600px;
+float: left;
+margin-left: 350px;
+}
+
+#c4{
+  background-image: url(img/ban3.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: green;
+  height: 170px;
+  width: 800px;
+  float: right;
+  margin-right:  375px;
+margin-top: -14px;
+
+
+}
+
+#c5{
+  background-image: url(img/ban2.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+background-color: yellow;
+height: 170px;
+width: 800px;
+float: right;
+margin-right:  375px;
+margin-top: 58px;
+
+}
+
+#contenedor2{
+  margin-top: 90px;
+background-color: ;
+height: 800px;
+
+
+}
+
+
+#contenedor3{
+  background-color: ;
+  height: 800px;
+  margin-top: -120px;
+  width: 1453px;
+  margin-left: 353px;
+}
+
+
+#cuadrado1{
+  border-radius: 50%;
+  background-image: url(img/burg1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  float: left;
+  margin-left:  110px;
+  margin-right: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+#cuadrado2{
+  border-radius: 50%;
+  background-image: url(img/burg2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:  bottom;
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  float: left;
+  margin-left:  80px;
+  margin-right: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#cuadrado3{
+  border-radius: 50%;
+  background-image: url(img/burg3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  float: left;
+margin-left:  80px;
+margin-right: 80px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+#text1{
+  background-color: ;
+  width: 300px;
+  height: 400px;
+  margin: auto;
+  float: left;
+  margin-left:  110px;
+  margin-right: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+
+#text2{
+  background-color: ;
+  width: 300px;
+  height: 400px;
+  margin: auto;
+  float: left;
+  margin-left:  80px;
+  margin-right: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+#text3{
+  background-color: ;
+  width: 300px;
+  height: 400px;
+  margin: auto;
+  float: left;
+margin-left:  80px;
+margin-right: 80px;
+margin-top: 20px;
+margin-bottom: 20px;
+text-align: justify;
+}
+
+
+#subtitulo{
+  background-color: #661010;
+  height: 100px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 200px;
+  margin-top: -200px;
+  display: flex;
+  justify-content: center;
+
+
+}
+
+#t1{
+  align-items: center;
+  display: flex;
+  height: 100px;
+
+  width: 600px;
+  justify-content: center;
+margin-top: 0;
+font-family:   sans-serif;
+  color: white;
+
+
+
+}
